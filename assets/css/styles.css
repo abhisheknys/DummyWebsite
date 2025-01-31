@@ -1491,3 +1491,43 @@ img {
 
 }
 
+.canva{
+  width: 90%;
+}
+
+.illustrator{
+  width: 50%;
+}
+
+.photoshop{
+  width: 60%;
+}
+
+.htmlbar{
+  width: 80%;
+}
+
+.python{
+  width: 20%;
+}
+
+.js{
+  width: 60%;
+}
+
+.button-custom{
+  color: #fff !important;
+  border: 1px solid #dde;
+  background-color: #F97316;
+}
+
+.button-custom:hover{
+  color: #000;
+  background-color: #FFF;
+}
+
+.zigzag{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
